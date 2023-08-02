@@ -12,7 +12,8 @@ Reject all things fancy, Only encoder PHP webshell to bypass WAF using XOR opera
 Usage：python3 -m/--method [GET\POST] -p/--password [password] -o/--ouput [output filename]
 ```
 
-
+## run on replit
+[![Run on Replit](https://replit.com/badge/github.com/tucommenceapousser/xor)](https://replit.com/github.com/tucommenceapousser/xor)
 
 ## Example
 
